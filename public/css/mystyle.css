@@ -31,7 +31,7 @@ a {
   width: 100%;
   height: 100%;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: 90px 110px 110px 110px 110px 30px;
+  grid-template-rows: 60px 110px 110px 110px 110px 30px;
   grid-gap: 10px;
 }
 
@@ -41,7 +41,8 @@ a {
   grid-column-end: 5;
   display: flex;
   align-items: center;
-  justify-content: left;
+  justify-content: center;
+  border-radius: 10px;
 }
 
 .menu span {
