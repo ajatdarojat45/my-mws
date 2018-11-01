@@ -70,7 +70,7 @@ TODO:
         resultNum = oldNum * theNum;
         break;
 
-      case "divided by":
+      case "dividedby":
         resultNum = oldNum / theNum;
         break;
 
