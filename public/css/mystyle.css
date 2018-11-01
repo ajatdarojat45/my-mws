@@ -22,12 +22,19 @@
 .konten {
   background: #b3b3ff;
   grid-column: 2/5;
+  text-align: left;
+  align-items: center;
+  padding: 15px 0;
+  font-size: 20px;
 }
 
 .footer {
   background: #b3ffb3;
   grid-column: 1/5;
   grid-row: 5/6;
+  text-align: center;
+  align-items: center;
+  padding: 5px 0;
 }
 
 .img-profil {
@@ -40,4 +47,10 @@
   height: 150px;
   width: 150px;
   color: white;
+}
+
+.img-konten {
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 70px;
 }

@@ -1,0 +1,32 @@
+.container {
+  display: grid;
+  width: 100%;
+  /* grid-template-columns: repeat(4, 1fr); */
+  /* grid-template-rows: 30px 100px 100px 100px 30px; */
+  grid-gap: 4px;
+}
+
+input {
+  font-size: large
+}
+
+.header {
+  background: lightblue;
+  grid-column-start: 1;
+  grid-column-end: 5;
+  text-align: center;
+  align-items: center;
+  padding: 10px 0;
+  width: 100%;
+}
+
+.menu{
+  margin-right: 20px;
+}
+
+.konten {
+  grid-column: 1/5;
+  grid-row: 5/6;
+  text-align: center;
+  align-items: center;
+}
