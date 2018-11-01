@@ -32,15 +32,16 @@
 }
 
 .header {
-  background: lightblue;
+  background: #24292e;;
   grid-column-start: 1;
   grid-column-end: 5;
   text-align: center;
   align-items: center;
-  padding: 10px 0;
+  padding: 35px 0;
   width: 100%;
 }
 
 .menu {
   margin-right: 20px;
+  color: white;
 }
