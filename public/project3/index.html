@@ -6,6 +6,7 @@
   <title>Lokasi Istimewa dengan Mapbox - Google Developers Kejar 2018</title>
   <meta name="viewport" content="width=device-width, initialscale=1.0, user-scalable=no" />
   <link rel="stylesheet" type="text/css" href="css/mystyle.css">
+  <link rel="stylesheet" type="text/css" href="css/peta.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin="" />
   <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script>
   <link rel="icon" href="../images/ajat.jpg">
@@ -22,21 +23,21 @@
             <img src="../images/calculator.png" class="icon-img" />
             <span>Kalkulator</span>
         </a>
-        <a href="index.html">
+        <a href="../project2/index.html">
             <img src="../images/maps.png" class="icon-img" />
             <span>Mapbox</span>
         </a>
-        <a href="../project3/index.html">
+        <a href="index.html">
             <img src="../images/maps_detail.png" class="icon-img" />
             <span>Mapbox Detail</span>
         </a>
     </div>
     <div class="konten">
-      <h1>Lokasi Istimewa dengan Mapbox</h1>
+      <h1>Mapbox Detail</h1>
     </div>
-    <div class='peta' id='mapid'> </div>
-    <div class='gambar'>Gambar disini</div>
-    <div class='review'>Tulis review disini</div>
+    <div class='peta' id='mapid'></div>
+    <div class='gambar' id='gmb'></div>
+    <div class='review' id='review'> </div>
   </div>
   <script>
     var mymap = L.map('mapid').setView([-6.4222402, 106.7325943], 13);
