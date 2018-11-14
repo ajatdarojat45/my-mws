@@ -1,0 +1,33 @@
+{
+  "places": [{
+      "lokasi": [-6.4576306, 106.6464973],
+      "sponsor": "<p align='center'><b>Rumpin</b><br>Lat:-6.4576306 Long:106.6464973 <br><br> Kabupaten Bogor Jawa Barat Indonesia</p>",
+      "gambar": "images/rumpin.jpg",
+      "review": "Rumpin - Kabupaten Bogor Jawa Barat Indonesia."
+    },
+    {
+      "lokasi": [-6.4492597, 106.6779359],
+      "sponsor": "<p align='center'><b>Ciseeng</b><br>Lat:--6.4492597 Long:106.6779359 <br><br> Kabupaten Bogor Jawa Barat Indonesia</p>",
+      "gambar": "images/ciseeng.jpg",
+      "review": "Ciseeng - Kabupaten Bogor Jawa Barat Indonesia"
+    },
+    {
+      "lokasi": [-6.4222402, 106.7325943],
+      "sponsor": "<p align='center'><b>Parung</b><br>Lat:-6.4222402 Long:106.7325943 <br><br> Kabupaten Bogor Jawa Barat Indonesia</p>",
+      "gambar": "images/parung.jpg",
+      "review": "Parung - Kabupaten Bogor Jawa Barat Indonesia"
+    },
+    {
+      "lokasi": [-6.4901067, 106.8306951],
+      "sponsor": "<p align='center'><b>Cibinong</b><br>Lat:-6.4901067 Long:106.8306951 <br><br> Kabupaten Bogor Jawa Barat Indonesia</p>",
+      "gambar": "images/cibinong.jpg",
+      "review": "Cibinog - Kabupaten Bogor Jawa Barat Indonesia"
+    },
+    {
+      "lokasi": [-6.3478915, 106.7411559],
+      "sponsor": "<p align='center'><b>Pamulang</b><br>Lat:-6.3478915 Long:106.7411559 <br><br> Tanggerang Selatan Banten Indonesia</p>",
+      "gambar": "images/pamulang.jpg",
+      "review": "Pamulang - Tanggerang Selatan Banten Indonesia"
+    }
+  ]
+}
