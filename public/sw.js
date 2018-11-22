@@ -35,8 +35,6 @@ const filesToCache = [
   'project4/images/rumpin.jpg',
   'project4/js/peta.js',
   'project4/index.html',
-  'project5/index.html',
-  'project5/sw.js',
   'index.html',
   '404.html',
 ];
