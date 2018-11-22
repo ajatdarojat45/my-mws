@@ -1,0 +1,21 @@
+{
+  "short_name": "GDK",
+  "name": "Mobile Web Specialist - Ajat Darojat",
+  "icons": [
+    {
+      "src": "/gdk.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/gdk.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://ajat-17a21.firebaseapp.com",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/index.html/",
+  "theme_color": "#3367D6"
+}
